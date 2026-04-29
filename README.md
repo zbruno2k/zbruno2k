@@ -21,8 +21,6 @@
 
 Sou desenvolvedor focado em criação de sistemas SaaS modernos, com mentalidade de produto.
 
-Meu foco é simples:
-
 - ⚡ Sistemas rápidos e escaláveis  
 - 🎯 UX/UI pensado para experiência real  
 - 💰 Produtos com foco em monetização  
@@ -35,46 +33,38 @@ Meu foco é simples:
 ## 🚀 Projetos em destaque
 
 ### 🅿️ Patio Prime — Sistema de Pátio
-Sistema completo para gestão de veículos.
-
-**Destaques:**
+Sistema completo para gestão de veículos:
 - Controle de entrada e saída  
 - Interface moderna e intuitiva  
-- Otimização de processos operacionais  
-- Estrutura pensada como SaaS  
+- Otimização operacional  
+- Estrutura SaaS  
 
 ---
 
 ### 🎮 Cidade Nova Colônia Roleplay — GTA RP
-Desenvolvimento de servidor e sistemas internos.
-
-**Destaques:**
+Desenvolvimento de servidor e sistemas:
 - Scripts personalizados  
 - Sistemas otimizados  
-- Experiência imersiva para jogadores  
+- Experiência imersiva  
 - Automações internas  
 
 ---
 
 ### 🌐 Nexor Play — Plataforma Web
-Projeto focado em assinaturas e monetização.
-
-**Destaques:**
+Projeto focado em monetização:
 - Interface moderna  
-- Estrutura de planos  
-- Posicionamento de produto digital  
+- Sistema de planos  
+- Estrutura escalável  
 - Foco em conversão  
 
 ---
 
 ### 🛍️ SaaS para Loja de Roupas
-Sistema voltado para vendas e automação.
-
-**Destaques:**
+Sistema para vendas e automação:
 - Gestão de produtos  
 - Organização de vendas  
 - Otimização de processos  
-- UX pensado para conversão  
+- UX voltado para conversão  
 
 ---
 
