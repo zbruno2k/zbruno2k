@@ -1,13 +1,18 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=header"/>
+
 <h1 align="center">uxbybruno 🚀</h1>
 
 <p align="center">
-  Building SaaS products focused on UX, performance & real-world results
+  Construindo produtos SaaS com foco em UX, performance e resultado real
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SaaS-Builder-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/UX/UI-Focused-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Product-Driven-black?style=for-the-badge">
+  <a href="https://instagram.com/old_viny">
+    <img src="https://img.shields.io/badge/Instagram-@old_viny-0D0D0D?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@zbruno2k">
+    <img src="https://img.shields.io/badge/TikTok-@zbruno2k-0D0D0D?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -16,100 +21,76 @@
 
 Sou desenvolvedor focado em criação de sistemas SaaS modernos, com mentalidade de produto.
 
-- ⚡ Performance e escalabilidade em primeiro lugar  
-- 🎯 UX/UI pensado para conversão  
-- 💰 Sistemas criados para gerar resultado real  
-- 🔗 Integrações inteligentes e automações  
+Meu foco é simples:
 
-Transformo ideias em produtos digitais que funcionam de verdade.
+- ⚡ Sistemas rápidos e escaláveis  
+- 🎯 UX/UI pensado para experiência real  
+- 💰 Produtos com foco em monetização  
+- 🔗 Automação e soluções inteligentes  
+
+> Não construo apenas sistemas — construo produtos que resolvem problemas de verdade.
 
 ---
 
-## 🚀 Projetos & Experiência
+## 🚀 Projetos em destaque
 
 ### 🅿️ Patio Prime — Sistema de Pátio
-Sistema completo para gestão de veículos:
-- Cadastro e controle de entrada/saída  
+Sistema completo para gestão de veículos.
+
+**Destaques:**
+- Controle de entrada e saída  
 - Interface moderna e intuitiva  
-- Foco em eficiência operacional  
+- Otimização de processos operacionais  
+- Estrutura pensada como SaaS  
 
 ---
 
-### 🎮 Cidade Nova Colônia Roleplay (GTA RP)
-Desenvolvimento e programação de servidor:
+### 🎮 Cidade Nova Colônia Roleplay — GTA RP
+Desenvolvimento de servidor e sistemas internos.
+
+**Destaques:**
 - Scripts personalizados  
-- Sistemas internos otimizados  
+- Sistemas otimizados  
 - Experiência imersiva para jogadores  
+- Automações internas  
 
 ---
 
 ### 🌐 Nexor Play — Plataforma Web
-Projeto de site com foco em monetização:
+Projeto focado em assinaturas e monetização.
+
+**Destaques:**
 - Interface moderna  
-- Sistema de planos e assinaturas  
-- Estrutura voltada para escala  
-
----
-
-### 🛍️ SaaS para Loja de Roupas
-Sistema voltado para vendas e automação:
-- Gestão de produtos  
-- Otimização de processos  
+- Estrutura de planos  
+- Posicionamento de produto digital  
 - Foco em conversão  
 
 ---
 
-## 🧩 Stack & Tecnologias
+### 🛍️ SaaS para Loja de Roupas
+Sistema voltado para vendas e automação.
+
+**Destaques:**
+- Gestão de produtos  
+- Organização de vendas  
+- Otimização de processos  
+- UX pensado para conversão  
+
+---
+
+## 🧩 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,supabase,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,supabase,firebase,figma,github" />
 </p>
 
 ---
 
-## 🟡 Contributions (Live)
+## ⚡ Mentalidade
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uxbybruno/uxbybruno/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uxbybruno/uxbybruno/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/uxbybruno/uxbybruno/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uxbybruno&show_icons=true&theme=dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=uxbybruno&theme=dark&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://instagram.com/old_viny">
-    <img src="https://img.shields.io/badge/Instagram-@old_viny-black?style=for-the-badge&logo=instagram">
-  </a>
-  <a href="https://tiktok.com/@zbruno2k">
-    <img src="https://img.shields.io/badge/TikTok-@zbruno2k-black?style=for-the-badge&logo=tiktok">
-  </a>
-</p>
-
----
-
-## 🤝 Vamos construir algo?
-
-Se você quer transformar uma ideia em produto SaaS:
-
-📩 Entre em contato  
-🚀 Vamos criar algo grande juntos  
-
----
-
-<p align="center">
-  ⚡ "UX first. Always."
-</p>
+```txt
+UX/UI               ████████████████████  100%
+SaaS                ███████████████████░  95%
+Frontend            ██████████████████░░  90%
+Automação           █████████████████░░░  85%
+Visão de Produto    ███████████████████░  95%
