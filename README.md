@@ -68,6 +68,14 @@ Sistema para vendas e automação:
 
 ---
 
+## 🟡 Contribuições em tempo real
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zbruno2k/zbruno2k/output/pacman-contribution-graph.svg">
+</p>
+
+---
+
 ## 🧩 Tecnologias
 
 <p align="center">
@@ -76,11 +84,26 @@ Sistema para vendas e automação:
 
 ---
 
-## ⚡ Mentalidade
+## 📊 Estatísticas
 
-```txt
-UX/UI               ████████████████████  100%
-SaaS                ███████████████████░  95%
-Frontend            ██████████████████░░  90%
-Automação           █████████████████░░░  85%
-Visão de Produto    ███████████████████░  95%
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zbruno2k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D0D0D"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zbruno2k&layout=compact&theme=github_dark&hide_border=true&bg_color=0D0D0D"/>
+</p>
+
+---
+
+## 🤝 Vamos construir algo?
+
+Se você quer transformar uma ideia em produto digital:
+
+📩 Entre em contato  
+🚀 Vamos criar algo grande  
+
+---
+
+<p align="center">
+  ⚡ UX primeiro. Produto sempre. Execução rápida.
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=120&section=footer"/>
